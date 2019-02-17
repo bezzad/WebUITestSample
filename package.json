@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "puppeteer-example/example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GNU",
+  "devDependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}
